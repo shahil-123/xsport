@@ -1,0 +1,18 @@
+h2{
+    background-color: aqua;
+    color: red;
+}
+ /* .carousal-backgrond-img{
+    background-image: url('../assets/img/carousel-1.jpg');
+      background-size: cover;
+    }  */
+    /* style="background-image: url('./assets/img/carousel-3.jpg');
+    background-size: cover;" */
+  #myChart{
+     width:50% !important; 
+     height: 50% !important;
+    }
+    .banner-img-profile{
+       background-image: url('../assets/img/vr-bg.jpg') ; 
+       background-size: cover;
+    }
